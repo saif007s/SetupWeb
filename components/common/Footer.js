@@ -99,7 +99,7 @@ const Footer = () => {
               <span>© 2023 SetupWeb. ALL RIGHTS RESERVED.</span>
             </div>
             <div className='connect'>
-              <span>Design & Develop By SetupWeb</span>
+              <span><a href="https://saif007s.github.io/My-Portfolio/" target="_blank">Design & Develop By Saif Ahmad</a></span>
               <span> &nbsp; | &nbsp; </span>
               <span>TERMS & CONDITIONS</span>
             </div>
